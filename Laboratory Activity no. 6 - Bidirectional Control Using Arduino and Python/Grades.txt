@@ -1,0 +1,12 @@
+COSC 111B 
+Internet of Things
+Laboratory Activity #6: Bidirectional Control Using Arduino and Python
+BSCS-4B
+
+Grades: 
+
+97 - Andino, Vanessa Mae M.
+98 - Gomba, Christina V.
+99 - Llantos, Roselyn G.
+100 - Ochoa, Josephine Lorraine P.
+96 - Palomar, Vhina May F.
