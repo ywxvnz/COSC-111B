@@ -1,0 +1,12 @@
+COSC 111B 
+Internet of Things
+Laboratory Activity #7: Controlling Arduino using FastAPI
+BSCS-4B
+
+Grades: 
+
+100 - Andino, Vanessa Mae M.
+98 - Gomba, Christina V.
+99 - Llantos, Roselyn G.
+96 - Ochoa, Josephine Lorraine P.
+97 - Palomar, Vhina May F.
